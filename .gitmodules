@@ -1,6 +1,6 @@
-[submodule "php-ajax-dischi 1"]
-	path = php-ajax-dischi 1
+[submodule "php-ajax-dischi-2"]
+	path = php-ajax-dischi-2
 	url = https://github.com/GiuseppeVigliaturo/php-ajax-dischi.git
-[submodule "php-ajax-dischi 2"]
-	path = php-ajax-dischi 2
+[submodule "php-ajax-dischi-1"]
+	path = php-ajax-dischi-1
 	url = https://github.com/GiuseppeVigliaturo/php-ajax-dischi.git
